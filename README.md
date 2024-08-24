@@ -1,0 +1,1 @@
+This case study for a bakery in Edinburgh aims to identify key patterns and sales trends in customer purchasing behavior across different times of the day, week, and year. The data analysis was done using R.
